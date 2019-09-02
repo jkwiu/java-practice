@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IOEx1",
+            "request": "launch",
+            "mainClass": "app.io.IOEx1",
+            "projectName": "tutorial.jk"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - OptionalEx",
+            "request": "launch",
+            "mainClass": "app.optionalEx.OptionalEx",
+            "projectName": "tutorial.jk"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StreamEx1",
+            "request": "launch",
+            "mainClass": "app.stream.StreamEx1",
+            "projectName": "tutorial.jk"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ThreadEx1",
+            "request": "launch",
+            "mainClass": "app.thread.ThreadEx1",
+            "projectName": "tutorial.jk"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FruitBox",
+            "request": "launch",
+            "mainClass": "app.generic.FruitBox",
+            "projectName": "tutorial.jk"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ListIteratorEx1",
+            "request": "launch",
+            "mainClass": "app.listIterator.ListIteratorEx1",
+            "projectName": "tutorial.jk"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IteratorEx1",
+            "request": "launch",
+            "mainClass": "app.iterator.IteratorEx1",
+            "projectName": "tutorial.jk"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-App<tutorial.jk>",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "tutorial.jk"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MyStack2<tutorial.jk>",
+            "request": "launch",
+            "mainClass": "app.stack.MyStack2",
+            "projectName": "tutorial.jk"
+        }
+    ]
+}
