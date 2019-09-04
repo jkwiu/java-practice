@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - OverloadingTest",
+            "request": "launch",
+            "mainClass": "app.overloading.OverloadingTest",
+            "projectName": "tutorial.jk"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - exchange",
+            "request": "launch",
+            "mainClass": "app.examples.exchange",
+            "projectName": "tutorial.jk"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - NetworkEx1",
             "request": "launch",
             "mainClass": "app.networking.NetworkEx1",

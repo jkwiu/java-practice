@@ -14,5 +14,6 @@ public class exchange {
         dollor = (double)money/1100;
 
         sc.close();
+        System.out.println(dollor);
     }
 }
